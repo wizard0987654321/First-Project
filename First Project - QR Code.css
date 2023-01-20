@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+  }
+
+  p {
+    text-align: center;
+  }
+
+  body {
+    background-color: #d5e1ef;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  div {
+    width: 320px;
+    background-color: white;
+    border-radius: 20px;
+    overflow: hidden;
+    padding: 16px;
+    margin: 0 auto;
+  }
+
+  img {
+    max-width: 100%;
+    border-radius: 10px;
+  }
